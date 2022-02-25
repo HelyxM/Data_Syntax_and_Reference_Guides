@@ -17,7 +17,7 @@
   - [SQL_Syntax_Guide](SQL_Syntax_Guide.docx)
 
 - Java Script Reference Guide - [*Work in Progress*]
-  - [Java_Script_Reference_Guide.docx](Java_Script_Reference_Guide.docx)
+  - [Java_Script_Reference_Guide](Java_Script_Reference_Guide.docx)
 
 - R Programming Language Reference Guide
   - [R_Reference_Guide](R_Reference_Guide.docx)
