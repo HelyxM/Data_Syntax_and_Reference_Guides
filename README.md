@@ -8,7 +8,7 @@
   - [Python_Syntax_Reference_Guide](Python_Syntax_Reference_Guide.rtf)
 
 - Programming in Python Through Jupyter Notebook Reference Guide
-  - [Python_In_Jupyter_Notebook](Python_In_Jupyter_Notebook.docx)
+  - [Python_In_Jupyter_Notebook](Python_In_Jupyter_Notebook.rtf)
 
 - PostgreSQL Reference Guide - [Work in Progress]
   - [PostgreSQL_Information_Guide](PostgreSQL_Information_Guide.docx)
